@@ -1,0 +1,27 @@
+{
+    "AAPL": {
+        "cik": "0000320193",
+        "file": "CIK0000320193.json",
+        "companyName": "Apple Inc."
+    },
+    "WMT": {
+        "cik": "0000104169",
+        "file": "CIK0000104169.json",
+        "companyName": "Walmart Inc."
+    },
+    "MSFT": {
+        "cik": "0000789019",
+        "file": "CIK0000789019.json",
+        "companyName": "Microsoft Corp."
+    },
+    "AMZN": {
+        "cik": "0001018724",
+        "file": "CIK0001018724.json",
+        "companyName": "Amazon.com Inc."
+    },
+    "GOOGL": {
+        "cik": "0001652044",
+        "file": "CIK0001652044.json",
+        "companyName": "Alphabet Inc."
+    }
+}
