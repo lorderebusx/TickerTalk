@@ -1,0 +1,31 @@
+{
+    "ticker": "GOOGL",
+    "companyName": "Alphabet Inc.",
+    "fiscalHistory": [
+        {
+            "year": 2018,
+            "revenue": 136819000000,
+            "netIncome": 30736000000
+        },
+        {
+            "year": 2019,
+            "revenue": 161857000000,
+            "netIncome": 34343000000
+        },
+        {
+            "year": 2022,
+            "revenue": 282836000000,
+            "netIncome": 59972000000
+        },
+        {
+            "year": 2023,
+            "revenue": 307394000000,
+            "netIncome": 73795000000
+        },
+        {
+            "year": 2024,
+            "revenue": 350018000000,
+            "netIncome": 100118000000
+        }
+    ]
+}

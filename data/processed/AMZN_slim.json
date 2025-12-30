@@ -1,0 +1,41 @@
+{
+    "ticker": "AMZN",
+    "companyName": "Amazon.com Inc.",
+    "fiscalHistory": [
+        {
+            "year": 2018,
+            "revenue": 72383000000,
+            "netIncome": 3027000000
+        },
+        {
+            "year": 2019,
+            "revenue": 87437000000,
+            "netIncome": 3268000000
+        },
+        {
+            "year": 2020,
+            "revenue": 125555000000,
+            "netIncome": 7222000000
+        },
+        {
+            "year": 2021,
+            "revenue": 469822000000,
+            "netIncome": 33364000000
+        },
+        {
+            "year": 2022,
+            "revenue": 513983000000,
+            "netIncome": -2722000000
+        },
+        {
+            "year": 2023,
+            "revenue": 574785000000,
+            "netIncome": 30425000000
+        },
+        {
+            "year": 2024,
+            "revenue": 637959000000,
+            "netIncome": 59248000000
+        }
+    ]
+}

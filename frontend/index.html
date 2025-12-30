@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TickerTalk Terminal</title>
+    <script src="https://cdn.plot.ly/plotly-2.27.0.min.js"></script>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="terminal-container">
+        <header>
+            <div class="logo">TICKER::TALK <span class="blink">_</span></div>
+            <div class="search-box">
+                <input type="text" id="tickerInput" placeholder="ENTER TICKER (e.g. AAPL)" value="AAPL">
+                <button onclick="loadTickerData()">REQ_DATA</button>
+            </div>
+        </header>
+
+        <section class="chart-panel">
+            <div id="financialChart"></div>
+        </section>
+
+        <section class="info-grid">
+            <div class="stat-card">
+                <h3>LATEST REVENUE</h3>
+                <p id="latestRevenue">--</p>
+            </div>
+            <div class="stat-card">
+                <h3>LATEST NET INCOME</h3>
+                <p id="latestIncome">--</p>
+            </div>
+            <div class="stat-card">
+                <h3>NET MARGIN</h3>
+                <p id="netMargin">--</p>
+            </div>
+            <div class="stat-card">
+                <h3>DATA YEARS</h3>
+                <p id="dataYears">--</p>
+            </div>
+        </section>
+        
+        <footer>
+            STATUS: <span id="statusMsg">SYSTEM READY</span> | SERVER: LOCALHOST:8080
+        </footer>
+    </div>
+
+    <script src="dashboardLogic.js"></script>
+</body>
+</html>

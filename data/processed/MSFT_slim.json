@@ -1,0 +1,46 @@
+{
+    "ticker": "MSFT",
+    "companyName": "Microsoft Corp.",
+    "fiscalHistory": [
+        {
+            "year": 2018,
+            "revenue": 30085000000,
+            "netIncome": 8873000000
+        },
+        {
+            "year": 2019,
+            "revenue": 33717000000,
+            "netIncome": 13187000000
+        },
+        {
+            "year": 2020,
+            "revenue": 38033000000,
+            "netIncome": 11202000000
+        },
+        {
+            "year": 2021,
+            "revenue": 168088000000,
+            "netIncome": 61271000000
+        },
+        {
+            "year": 2022,
+            "revenue": 198270000000,
+            "netIncome": 72738000000
+        },
+        {
+            "year": 2023,
+            "revenue": 211915000000,
+            "netIncome": 72361000000
+        },
+        {
+            "year": 2024,
+            "revenue": 245122000000,
+            "netIncome": 88136000000
+        },
+        {
+            "year": 2025,
+            "revenue": 281724000000,
+            "netIncome": 101832000000
+        }
+    ]
+}
